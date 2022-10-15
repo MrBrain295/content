@@ -316,6 +316,10 @@
       "inh": "Event",
       "impl": []
     },
+    "CaptureController": {
+      "inh": "",
+      "impl": []
+    },
     "CaretPosition": {
       "inh": "",
       "impl": []
@@ -736,10 +740,6 @@
       "inh": "",
       "impl": []
     },
-    "CSSViewportRule": {
-      "inh": "CSSRule",
-      "impl": []
-    },
     "CustomElementRegistry": {
       "inh": "",
       "impl": []
@@ -1065,6 +1065,10 @@
       "impl": []
     },
     "FileSystemHandle": {
+      "inh": "",
+      "impl": []
+    },
+    "FileSystemSyncAccessHandle": {
       "inh": "",
       "impl": []
     },
@@ -1726,6 +1730,10 @@
     },
     "IdentityCredential": {
       "inh": "Credential",
+      "impl": []
+    },
+    "IdentityProvider": {
+      "inh": "",
       "impl": []
     },
     "IdleDeadline": {
@@ -2485,6 +2493,10 @@
       "impl": []
     },
     "PressureObserver": {
+      "inh": "",
+      "impl": []
+    },
+    "PressureRecord": {
       "inh": "",
       "impl": []
     },
@@ -3556,6 +3568,10 @@
       "inh": "PermissionStatus",
       "impl": []
     },
+    "UserActivation": {
+      "inh": "",
+      "impl": []
+    },
     "ValidityState": {
       "inh": "",
       "impl": []
@@ -3598,6 +3614,10 @@
     },
     "ViewTimeline": {
       "inh": "ScrollTimeline",
+      "impl": []
+    },
+    "ViewTransition": {
+      "inh": "",
       "impl": []
     },
     "VirtualKeyboard": {
