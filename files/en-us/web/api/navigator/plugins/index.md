@@ -28,8 +28,6 @@ If inline PDF viewing is not supported then an empty list is returned.
 > Returning these ensures that legacy code can more reliably determine whether inline viewing is supported.
 > However this approach is not recommended for new code because this property may eventually be removed.
 
-Legacy browser versions also list plugins for Adobe Flash and PDF viewer extensions.
-
 ## Value
 
 `plugins` is a {{DOMxRef("PluginArray")}} object used to access {{DOMxRef("Plugin")}} objects either by name or as a list of items.
